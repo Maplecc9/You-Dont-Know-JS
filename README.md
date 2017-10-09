@@ -1,4 +1,5 @@
 # You Don't Know JS (book series)
+# 你不知道的JavaScript（系列丛书）
 
 This is a series of books diving deep into the core mechanisms of the JavaScript language. The first edition of the series is now complete.
 
